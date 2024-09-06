@@ -1,2 +1,1 @@
-# HC-DPPI
-Organization to hold projects for the DPPI team.
+The GitHub presence for Health Canada's Interoperable Platforms and Product Management Organization.
